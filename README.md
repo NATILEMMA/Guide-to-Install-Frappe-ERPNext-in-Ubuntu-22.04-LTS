@@ -137,5 +137,12 @@ Now press (Ctrl-X) to exit
     bench --site dcode.com install-app erpnext
     
     bench start
+    
+### STEP 16 install custom Employee latest version in bench & site
+    
+    
+      bench get-app [repo-link] - Downloads an app from a git repository and installs it
+    
+      bench --site [] install-app employee
 
     
